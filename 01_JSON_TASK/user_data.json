@@ -1,0 +1,13 @@
+[
+    {
+    "name":"Anjali Maurya",
+    "age":21,
+    "skill":["Python", "Api"]
+    },
+    {
+    "name":"Atul Maurya",
+    "age":27,
+    "skill":["Business Analyst", "SQL"]
+    }
+    
+]

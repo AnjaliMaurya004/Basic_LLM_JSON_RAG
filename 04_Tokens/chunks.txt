@@ -1,0 +1,14 @@
+Chunk 1: Introduction to Artificial Intelligence
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. These systems can perform tasks such as problem-solving, decision-making, and language understanding. AI is widely used in applications like virtual assistants, recommendation systems, and autonomous vehicles, making everyday tasks more efficient and convenient.
+
+Chunk 2: Machine Learning Basics
+Machine Learning is a subset of AI that enables systems to learn from data without being explicitly programmed. It uses algorithms to identify patterns and make predictions. Common types include supervised learning, unsupervised learning, and reinforcement learning. Machine learning powers technologies such as spam filters, fraud detection, and personalized recommendations.
+
+Chunk 3: Natural Language Processing
+Natural Language Processing (NLP) is a field of AI focused on the interaction between computers and human language. It allows machines to read, understand, and generate text. NLP techniques are used in chatbots, translation tools, and sentiment analysis systems. The goal is to enable more natural and effective communication between humans and machines.
+
+Chunk 4: Data Preprocessing
+Data preprocessing is an essential step in machine learning that involves cleaning and transforming raw data into a usable format. This includes handling missing values, removing duplicates, and normalizing data. Proper preprocessing improves model accuracy and performance. It ensures that algorithms receive high-quality input for training and evaluation.
+
+Chunk 5: Importance of RAG Systems
+Retrieval-Augmented Generation (RAG) combines information retrieval with text generation to produce more accurate and context-aware responses. It retrieves relevant documents from a knowledge base and uses them to generate answers. This approach reduces hallucinations and improves reliability, making it useful in applications like customer support, research tools, and question answering systems.
